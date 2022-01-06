@@ -47,26 +47,75 @@
 ---
 
 ## CSS
-> CSS는 다소 딱딱한 HTML에 색이나 단순 동적인 작업을 도와준다.
+> - CSS는 다소 딱딱한 HTML에 색이나 단순 동적인 작업을 도와준다.
+> - 
 ### Learn the basics
-> 선택자와 속성 및 값에 따라 어떠한 변화가 있는지 살펴본다.
+> - 선택자와 속성 및 값에 따라 어떠한 변화가 있는지 살펴본다.
+> - 
 ### Making Layouts
-> CSS 로 HTML에서 배치하기 힘든 것을 좌에서 우로 혹은 위에서 아래로 배치가 가능하다
-> ### Floats, Positioning, Display, Box Model, CSS Grid, Flex Box
->> 배치들을 도와주는 속성들이다. 그리드와 플렉스를 이용하면 반응형 웹을 만드는데 수월하다. 
+> - CSS 로 HTML에서 배치하기 힘든 것을 좌에서 우로 혹은 위에서 아래로 배치가 가능하다
+> - 
+> - ### Floats, Positioning, Display, Box Model, CSS Grid, Flex Box
+> - 
+>> - 배치들을 도와주는 속성들이다. 그리드와 플렉스를 이용하면 반응형 웹을 만드는데 수월하다. 
 ### Responsive design and Media Queries
-> 웹 브라우저의 크기에 따라 내용의 배치들이 그에 맞게 변형이 되는 것을 말한다.
+> - 웹 브라우저의 크기에 따라 내용의 배치들이 그에 맞게 변형이 되는 것을 말한다.
+> - 
 ---
 
 ## JavaScript
-> HTML과 CSS로 만든 웹에 다양한 기능들을 추가해 사용자와 상호작용이 더욱 수월하게 만들어준다.
+> - HTML과 CSS로 만든 웹에 다양한 기능들을 추가해 사용자와 상호작용이 더욱 수월하게 만들어준다.
+> - 
 ### Syntax and Basic Constructs
-> 신텍스 에러?
+> - 신텍스 에러?
+> - 
 ### Learn DOM Manipulation
-> ??
+> - ??
+> - 
 ### Learn Fetch API / Ajax(XHR)
-> Ajax 는 비동기 통신을 위해 사용?
+> - Ajax 는 비동기 통신을 위해 사용?
+> - 
 ### ES6+ and modular JavaScript
-> 
+> - 
+> -
 ### Understand the concepts Hoisting, Event Bubbling, Scope, Prototype, Shadow DOM, strict
->
+> - 
+> - 
+---
+
+## Version Control Systems
+> - 하나의 창작물을 만들거나 완성품을 수정 보완하면서 진전이 보인다면 다음 버전으로 칭하면서 필요시 지난 버전으로 돌아갈 수 있도록 버전을 관리하는 시스템
+> - 
+> ## Repo hosting services
+> > - 저장소를 제공해주고 파일을 게시할 수 있는 서비스 제공
+> > - 
+> > > ### GitHub
+> > > - 유명한 repo hosting service중 하나로 자신이 업로드한 파일을 다양한 사람들에게 공유 가능하다
+> > > - 
+> > > ### GitLab
+> > > - 
+> > > - 
+> > > ### Bitbucket
+> > > -
+> > > -
+> ## Basic Usage of Git
+> -
+> -
+---
+
+
+## Web Security Knowledge 
+> - 
+> -
+### HTTPS
+> -
+> -
+### Content Security Policy
+> -
+> -
+### CORS
+> -
+> -
+# OWASP Security Risks
+> -
+> -
