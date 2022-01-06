@@ -119,5 +119,91 @@
 ### OWASP Security Risks
 > - ??
 > -
+---
+
+## Package Managers
+> - 파일들을 모아놓은 것을 관리 하는 어플리케이션?
+> -
+### npm
+> - ??
+> -
+### yarn
+> - ??
+> -
+---
+
+## CSS Architecture
+> -
+> -
+### BEM
+> -
+> -
+### OOSCC
+> -
+> -
+### SMACSS
+> -
+> -
+---
+
+## CSS Preprocessors
+> -
+> -
+### Sass
+> -
+> -
+### PostCSS
+> -
+> -
+### Less
+> -
+> -
+---
+
+## Build Tools
+> -
+> -
+> ## Task Runners
+> > -
+> > -
+> > > ## npm scripts
+> > > -
+> > > -
+> ## Module Bundlers
+> > -
+> > -
+> > > ### Webpack
+> > > -
+> > > -
+> > > ### esbuild
+> > > -
+> > > -
+> > > ### Rollup
+> > > -
+> > > -
+> > > ### Parce
+> > > -
+> > > -
+> > > ### Vite
+> > > -
+> > > -
+> ## Linters and Formatters
+> > -
+> > -
+> > > ### Pretiier
+> > > -
+> > > -
+> > > ### ESLint
+> > > -
+> > > -
+> > > ### StandardJS
+> > > -
+> > > -
+---
+
+## Pick a Framwork
+> -
+> -
+
 
 
