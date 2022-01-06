@@ -93,29 +93,31 @@
 > > > - 유명한 repo hosting service중 하나로 자신이 업로드한 파일을 다양한 사람들에게 공유 가능하다
 > > > - 
 > > > ### GitLab
-> > > - 
+> > > - ??
 > > > - 
 > > > ### Bitbucket
-> > > -
+> > > - ??
 > > > -
 > ## Basic Usage of Git
-> -
+> - 기본적으로 깃 사용하는법? 업로드와 공유하는 방법과 Markdown언어를 사용해 md파일을 손쉽게 조작해본다.
 > -
 ---
 
 
 ## Web Security Knowledge 
-> - 
+> - 인터넷에 의존적인 세상이 되면서 보안이 많이 중요시 된다.
 > -
 ### HTTPS
-> -
+> - HTTP 통신규약 프로토콜에서 S(security?) 가 붙음으로 보안이 추가된 프로토콜?
 > -
 ### Content Security Policy
-> -
+> - 글을 작성할 때 개인정보 같은 것을 게시하지 않는다?
 > -
 ### CORS
-> -
+> - ??
 > -
 ### OWASP Security Risks
+> - ??
 > -
-> -
+
+
