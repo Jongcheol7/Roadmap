@@ -279,5 +279,131 @@
 > ### Electron
 > > -
 > > - Native 어플리케이션이며 html,css,js만 가지고도 데스트탑 애플리케이션을 만들 수 있도록 해주는 편리한 프레임워크이다.
+---
+---
 
+# Back-End
+## Internet
+## Basic Frontend Knowlege
+> ### HTML
+> ### CSS
+> ### JavaScript
+> ---
+## OS and General Knowledge
+> ### Terminal Usage
+> > -
+> > -
+> ### How OSs work in General
+> > -
+> > -
+> ### Proess Management
+> > -
+> > -
+> ### Threads and Concurrency
+> > -
+> > -
+> ### Basic Terminal Commands (grep, awk, sed, lsof, curl, wget, tail, head, less, find, ssh, kill)
+> > -
+> > -
+> ### Momory Management
+> > -
+> > -
+> ### Interprocess Communication
+> > -
+> > -
+> ### I/O Management
+> > -
+> > -
+> ### POSIX Basics
+> > -
+> > -
+> Basic Networking Concepts
+> > -
+> > -
+---
+## Learn a Language
+> ### Java
+> > -
+> > -
+> ### C#
+> > -
+> > -
+> ### PHP
+> > -
+> > -
+> ### JavaScript
+> > -
+> > -
+> ### Python
+> > -
+> > -
+> ### Ruby
+> > -
+> > -
+---
+## Version Control Systems
+> ### Basic Usage of Git
+> ### Repo hosting services
+> > ### GitHub
+> > ### GitLab
+> > ### Bitbucket
+---
+## Relational Databases
+> ### PostgreSQL
+> > -
+> > -
+> ### MySQL
+> > -
+> > -
+> ### MariaDB
+> > -
+> > -
+> ### MS SQL
+> > -
+> > -
+> ### Oracle
+> > -
+> > -
+---
+## NoSQL Database
+> -
+> -
+> ### Cassandra
+> > -
+> > -
+> ### InfluxDB
+> > -
+> > -
+> ### Firebase
+> > -
+> > -
+---
+## More about Database
+> ### ORMs
+> > -
+> > -
+> ### ACID 
+> > -
+> > -
+> ### Transactions
+> > -
+> > -
+> ### N+1 Problem 
+> > -
+> > -
+> ### Database Normalization
+> > -
+> > -
+> ### Indexes and how they work
+> > -
+> > -
+> ### Data Replication
+> > -
+> > -
+> ### Sharding Staregies
+> > -
+> > -
+> ### CAP Theorem
+> > -
+> > -
 
