@@ -394,17 +394,80 @@
 > > -
 > ### Database Normalization
 > > -
-> > -
+> > - 데이터베이스 정규화는 관계형 데이터베이스의 설계 단계에서 데이터의 중복을 최소화하기 위해 데이터의 구조를 결정하는 작업.
 > ### Indexes and how they work
 > > -
-> > -
+> > - 인덱스는 데이터베이스 테이블에 대한 검색 성능의 속도를 높여주는 자료구조이다. 인덱스는 책에 있는 목차라고 생각하시면 편합니다. 우리가 책에서 정보를 찾을때도 먼저 원하는 카테고리를 목차에서 찾고 목차에 있는 페이지 번호를 보고 찾아가듯 인덱스도 인덱스에서 내가 원하는 데이터를 먼저 찾고 저장되어 있는 물리적 주소로 찾아간다.
 > ### Data Replication
 > > -
-> > -
+> > - 두개 이상의 DBMS 시스템을 master/slave로 나눠서 동일한 데이터를 저장하는 방식. 사용자가 많아지고 database는 많은 query를 처리하기엔 너무 힘든 상황이 온다. query의 대부분을 차지하는 select를 어느정도 해결하기 위해 replication이 나오게 됬다.
 > ### Sharding Staregies
 > > -
 > > -
 > ### CAP Theorem
 > > -
+> > - 분산시스템에서 일관성, 가용성, 분할용인 이라는 세가지 조건을 모두 만족할 수 없다는 정리로, 세가지 중 두가지를 택하라는 것으로 알려져있다.
+---
+
+## Learn about APIs
+> ### REST
 > > -
+> > -
+> ### JSON APIs
+> > -
+> > -
+> ### SOAP
+> > -
+> > -
+> ### gRPC
+> > -
+> > -
+> ### HATEOSA
+> > -
+> > -
+> ###Open API Spec and Swagger
+> > -
+> > -
+> ### Authentication
+> > -
+> > -
+> > ### OAuth
+> > > -
+> > > -
+> > ### Basic Authentication
+> > > -
+> > > -
+> > ### Token Authentication
+> > > -
+> > > -
+> > ### JWT
+> > > -
+> > > -
+> > ### OpenID
+> > > -
+> > > -
+> > ### SAML
+> > > -
+> > > -
+---
+
+## Caching
+> ### CDN
+> > -
+> > -
+> > ### Redis
+> > > -
+> > > -
+> > ### Memcached
+> > > -
+> > > -
+> ### Server Side
+> > -
+> > -
+> ### Client Side
+> > -
+> > -
+
+---
+## WebSecurity knowledge
 
